@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project, named GIM1 and led by Henri Baudry and Arthur Chardon, focuses on the recovery of energy through vibrating piezoelectric devices.
+This project, named led by Henri Baudry and Arthur Chardon, focuses on the recovery of energy through vibrating piezoelectric devices.
 
 ## Project Objectives
 
@@ -23,9 +23,9 @@ The main objectives of the project are:
 - Henri Baudry
 - Arthur Chardon
 
-## How to Contribute
+## How to learn more
+A pdf file redacted in french aims to present in details the way piezoelectric devices can be used as energy collector : [Report Piezoelectric Project](LICENSE)
 
-If you are interested in contributing to this project, feel free to reach out to the project leads.
 
 ## License
 
