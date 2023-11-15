@@ -29,4 +29,4 @@ If you are interested in contributing to this project, feel free to reach out to
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Arts & Métiers License](LICENSE).
