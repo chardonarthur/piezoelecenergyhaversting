@@ -24,7 +24,7 @@ The main objectives of the project are:
 - Arthur Chardon
 
 ## How to learn more
-A pdf file redacted in french aims to present in details the way piezoelectric devices can be used as energy collector : [Report Piezoelectric Project](Rapport projet piézo Henri BAUDRY et Arthur CHARDON.pdf)
+A pdf file redacted in french aims to present in details the way piezoelectric devices can be used as energy collector : **Report Piezoelectric Project**
 
 
 ## License
