@@ -29,4 +29,4 @@ A pdf file redacted in french aims to present in details the way piezoelectric d
 
 ## License
 
-This project is licensed under the [Arts & Métiers License](LICENSE).
+This project is licensed under the [Arts & Métiers License](Optimisation.py).
